@@ -1,0 +1,5 @@
+#Ignore libs
+*.a
+
+#Ignore build files
+*.build
